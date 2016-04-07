@@ -1,2 +1,2 @@
-# Bartok-base
-Gibson's Prospector Solitaire (Gliozzi build)
+# Bartok
+Unity 5 Bartok Game
